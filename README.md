@@ -36,7 +36,12 @@ Welcome to my Github page! I am Bamsi, a full-stack developer and software archi
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
+
 #### 🥇 My recent works
+<a href="https://bamsi.github.io/jukwaa/">
+<img src="https://github.com/bamsi/bamsi/blob/main/Screenshot%20from%202022-05-05%2008-58-28.png" width="100" height="200"/>
+</a><br/>
+[Source code](https://github.com/bamsi/jukwaa)
 
 
 <sub>Credits to: <br/>[Pixabay](https://pixabay.com) for the wonderfull [picture](https://github.com/bamsi/bamsi/blob/main/development-g8e150fa72_640.png)</sub>
