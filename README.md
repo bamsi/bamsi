@@ -49,6 +49,7 @@ Welcome to my Github page! I am Bamsi, a full-stack developer and software archi
 <a href="https://github.com/bamsi/skongaweb-ui">
   <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=skongaweb-ui" />
 </a>
+<p>&nbsp;</p>
 <a href="https://github.com/bamsi/jukwaa">
   <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=jukwaa" />
 </a>
