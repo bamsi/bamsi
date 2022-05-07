@@ -37,23 +37,23 @@ Welcome to my Github page! I am Bamsi, a full-stack developer and software archi
 
 <h2>⚡ My Stats :
 <div>
-  <img height="180" width="500" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bamsi&show_icons=true&theme=default"/>
-  <img height="180" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bamsi&show_icons=true&theme=default&layout=compact"/>
+  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bamsi&show_icons=true&theme=default"/>
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bamsi&show_icons=true&theme=default&layout=compact"/>
 </div>
 
 #### 🥇 My recent works
 <div align="center">
 <a href="https://github.com/bamsi/awesome-books-1">
-  <img align="center" width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=awesome-books-1" />
+  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=awesome-books-1" />
 </a>
 <a href="https://github.com/bamsi/skongaweb-ui">
-  <img align="center" width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=skongaweb-ui" />
+  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=skongaweb-ui" />
 </a>
 <a href="https://github.com/bamsi/jukwaa">
-  <img align="center" width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=jukwaa" />
+  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=jukwaa" />
 </a>
 <a href="https://github.com/bamsi/portfolio">
-  <img align="center" width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=portfolio" />
+  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=portfolio" />
 </a>
 </div>
 
