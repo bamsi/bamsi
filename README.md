@@ -38,7 +38,7 @@ Welcome to my Github page! I am Bamsi, a full-stack developer and software archi
 <h2>⚡ My Stats :
 <div>
   <img height="200" width="48%"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=bamsi&show_icons=true&theme=default"/>
-  <img height="200" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bamsi&show_icons=true&theme=default&layout=compact"/>
+  <img height="200" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bamsi&show_icons=true&theme=default&layout=compact"/>
 </div>
 
 #### 🥇 My recent works
