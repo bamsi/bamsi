@@ -42,19 +42,22 @@ Welcome to my Github page! I am Bamsi, a **Full-stack developer** and **Software
 </div>
 
 #### 🥇 My recent works
-<div align="center">
-<a href="https://github.com/bamsi/awesome-books-1">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=awesome-books-1" />
-</a>
-<a href="https://github.com/bamsi/skongaweb-ui">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=skongaweb-ui" />
-</a>
-<p>&nbsp;</p>
+
+
+
 <a href="https://github.com/bamsi/jukwaa">
   <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=jukwaa" />
 </a>
 <a href="https://github.com/bamsi/portfolio">
   <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=portfolio" />
+</a>
+  <p>&nbsp;</p>
+  <div align="center">
+  <a href="https://github.com/bamsi/skongaweb-ui">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=skongaweb-ui" />
+</a>
+<a href="https://github.com/bamsi/awesome-books-1">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=awesome-books-1" />
 </a>
 </div>
   <br/><br/>
