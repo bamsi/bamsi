@@ -57,7 +57,5 @@ Welcome to my Github page! I am Bamsi, a **Full-stack developer** and **Software
   <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=portfolio" />
 </a>
 </div>
-<br/>
-✋ **I am currently available for a new job!**
   <br/><br/>
 <sub>Credits to: <br/>[Pixabay](https://pixabay.com) for the wonderfull [picture](https://github.com/bamsi/bamsi/blob/main/development-g8e150fa72_640.png)</sub>
