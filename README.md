@@ -26,7 +26,7 @@ Welcome to my Github page! I am Bamsi, a **Full-stack developer** and **Software
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
@@ -36,23 +36,22 @@ Welcome to my Github page! I am Bamsi, a **Full-stack developer** and **Software
 </p>
 
 <h2>⚡ My Stats :
-<div>
+<div align="center">
   <img height="200" width="48%"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=bamsi&show_icons=true&theme=default"/>
-  <img height="200" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bamsi&show_icons=true&theme=default&layout=compact"/>
+  <img height="200" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bamsi&show_icons=true&theme=default&layout=compact"/>
 </div>
 
 #### 🥇 My recent works
-
-
-
+<div align="center">
 <a href="https://github.com/bamsi/jukwaa">
   <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=jukwaa" />
 </a>
 <a href="https://github.com/bamsi/portfolio">
   <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=portfolio" />
 </a>
+  </div>
   <p>&nbsp;</p>
-  <div align="center">
+<div align="center">
   <a href="https://github.com/bamsi/skongaweb-ui">
   <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=skongaweb-ui" />
 </a>
