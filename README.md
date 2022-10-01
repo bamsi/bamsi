@@ -46,8 +46,8 @@ Welcome to my Github page! I am Bamsi, a **Full-stack developer** and **Software
 <a href="https://github.com/bamsi/budget-app">
   <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=budget-app" />
 </a>
-<a href="https://github.com/bamsi/jukwaa">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=jukwaa" />
+<a href="https://github.com/bamsi/portfolio">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=portfolio" />
 </a>
 </div>
   <p>&nbsp;</p>
@@ -55,9 +55,10 @@ Welcome to my Github page! I am Bamsi, a **Full-stack developer** and **Software
   <a href="https://github.com/bamsi/skongaweb-ui">
   <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=skongaweb-ui" />
 </a>
-<a href="https://github.com/bamsi/portfolio">
-  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=portfolio" />
+<a href="https://github.com/bamsi/jukwaa">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=jukwaa" />
 </a>
+
 </div>
   <br/><br/>
 <sub>Credits to: <br/>[Pixabay](https://pixabay.com) for the wonderfull [picture](https://github.com/bamsi/bamsi/blob/main/development-g8e150fa72_640.png)</sub>
