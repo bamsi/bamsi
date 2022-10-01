@@ -43,6 +43,9 @@ Welcome to my Github page! I am Bamsi, a **Full-stack developer** and **Software
 
 #### 🥇 My recent works
 <div align="center">
+<a href="https://github.com/bamsi/budget-app">
+  <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=budget-app" />
+</a>
 <a href="https://github.com/bamsi/jukwaa">
   <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=bamsi&repo=jukwaa" />
 </a>
