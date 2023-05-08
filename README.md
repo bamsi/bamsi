@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/haji-bamsi-17327726/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hibamsi@gmail.com)
 
-Welcome to my Github page! I am Bamsi, a **Full-stack developer** and **Software architect** looking for a **remote programming job!**  
+Welcome to my Github page! I am Bamsi, a **Full-stack developer** looking for a **remote programming job!**  
 
 <img align="right" alt="img" src="https://github.com/bamsi/bamsi/blob/main/development-g8e150fa72_640.png" width="50%" height="auto" />
 
